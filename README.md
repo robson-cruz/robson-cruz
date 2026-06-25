@@ -23,7 +23,7 @@ I am a forestry engineer and software engineering student, I have experience in 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  -->
   
 
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently learning Julia.
   
 
 - ❓ Ask me about anything related to R language and data cleaning.
@@ -49,7 +49,7 @@ I am a forestry engineer and software engineering student, I have experience in 
 
 ## Languages and Tools
 <div align="center" style="background-color:#cccfcf; padding:20px; border-radius:10px">
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+  <!--<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>-->
   <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
